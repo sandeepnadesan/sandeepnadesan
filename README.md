@@ -1,4 +1,3 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <h1 align="center">Hi 👋, I'm Sandeep N</h1>
 <h3 align="center">I'm in my pre-final year at Kongu Engineering College, majoring in Artificial Intelligence and Data Science. As a newcomer to the field, I have a strong enthusiasm for technology and am excited to engage in cutting-edge projects.</h3>
 <p align="center">🚀 Tech Enthusiast | AI & Data Science Major | Exploring Innovative Solutions 💻🌐</p>
