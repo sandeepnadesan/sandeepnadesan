@@ -4,14 +4,14 @@
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=sandeepnadesan&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepnadesan" /> 
 </p>
-<div>
+<div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
-<!--   <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="60" height="60" />
-</div> -->
 
+</div>
+<div>
 <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY0NDkzOTUsIm5iZiI6MTcwNjQ0OTA5NSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI4VDEzMzgxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwNTE1MDg1OTU4ZGI2OTQyNjAzOTdkODA1OWQ0MDA3ZmMzZjU4Y2E5ZWMwY2QxMzUzNzJjZTNjNThmZmMxNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.d0pD5PGR11FJtfk-V_ezSRFeX3vH38ojigiobpnTy0o">
