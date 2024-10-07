@@ -10,8 +10,8 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="60" height="60" />
-</div>
+<!--   <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="60" height="60" />
+</div> -->
 
 <br>
 <br>
