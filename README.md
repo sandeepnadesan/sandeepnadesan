@@ -34,7 +34,10 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://leetcode.com/sandeepn_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeepn_2004" height="30" width="40" /></a>
+<a href="https://leetcode.com/sandeepn_2004/" target="_blank">
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=LeetCode&query=total_problems_solved&url=https://leetcode-stats-api.herokuapp.com/sandeepn_2004" alt="LeetCode Stats">
+</a>
+
 </p>
 <br>
 
