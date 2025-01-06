@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **Python, JavaScript, AI & Data Science**
 
-- 📫 How to reach me: **sandeepn.21aid@kongu.edu**
+- 📫 How to reach me: **sandeepnadesankns@gmail.com**
 
 - ⚡ Fun fact: **"AI never sleeps, but I need coffee!"**
 
