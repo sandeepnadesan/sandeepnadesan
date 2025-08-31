@@ -23,7 +23,7 @@
 
 - 👯 I’m currently working on **AI-driven asset management projects**
 
-- 💬 Ask me about **Python, JavaScript, AI & Data Science**
+- 💬 Ask me about **Python, JavaScript, AI & Data Science,Java**
 
 - 📫 How to reach me: **sandeepnadesankns@gmail.com**
 
@@ -55,7 +55,7 @@
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
   </a>
 </p>
 - Backend
